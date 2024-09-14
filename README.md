@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+Welcome to my web profile!
+
+[Check out my profile here](https://juanaliyunus-profile.vercel.app)
+
+This website showcases my portfolio, skills, and projects. Feel free to explore and reach out if you're interested in collaborating!
+
+---
+
+Thank you for visiting!
+
 <!--
 **juanaliyunus/juanaliyunus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
