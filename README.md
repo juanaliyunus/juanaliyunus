@@ -58,8 +58,8 @@ I'm a passionate **Fullstack Developer** with a deep love for coding, electronic
 
 ## 🌍 Let's Connect!
 
-- **LinkedIn**: [linkedin.com/in/juanaliyunus](#)
-- **Email**: juan.aliyunus@example.com
+- **LinkedIn**: [linkedin.com/in/juanaliyunus](linkedin.com/in/juanaliyunus)
+- **Email**: aliyunusjuan@gmail.com
 
 Feel free to explore my repositories and reach out if you'd like to collaborate!
 
