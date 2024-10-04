@@ -1,75 +1,64 @@
-## Hi there 👋
-
-Welcome to my web profile!
-
-[Check out my profile here](https://juanaliyunus-profile.vercel.app)
-
-This website showcases my portfolio, skills, and projects. Feel free to explore and reach out if you're interested in collaborating!
+Berikut adalah README yang diperbarui sesuai dengan struktur skill yang kamu inginkan, dilengkapi dengan ikon untuk setiap teknologi:
 
 ---
 
-Thank you for visiting!
-----
+# 👋 Hi there, I'm **Juan Aliyunus**!
 
 I'm a passionate **Fullstack Developer** with a deep love for coding, electronics, and learning new technologies. I believe in the power of technology to drive change and am constantly exploring new ways to solve problems through software development.
 
 ## 🚀 About Me
 
-- 🎓 Background in **Physics** with a focus on **Electronics and Embedded Systems**.
+- 🎓 Background in **Physics**
 - 🛠️ Skilled in **Backend Development** (Golang, Node.js), **Frontend Development** (Next.js, React), and **Software Quality Assurance**.
-- 🤖 Strong interest in **IoT**, having developed **IoT-driven farming solutions** and hands-on experience building electronic circuits.
 - 🏋️ Fitness enthusiast who loves **running**, **swimming**, **calisthenics**, and more.
 - 💻 Currently working on various **personal projects** and looking to contribute to open-source communities.
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Skills and Tools
 
-### Languages
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frameworks
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) 
+### Front-End
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Databases
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) 
+### Testing Tools & Practices
+![Katalon](https://img.shields.io/badge/Katalon-00A859?style=for-the-badge&logo=katalon&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Automation Testing](https://img.shields.io/badge/Automation_Testing-FF6C37?style=for-the-badge&logo=git&logoColor=white)
+![Functional Testing](https://img.shields.io/badge/Functional_Testing-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Performance Testing](https://img.shields.io/badge/Performance_Testing-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
-### Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+### Other Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### Testing
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white) 
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) 
-![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
+## 🌐 My Web Profile
+[Check out my web profile here!](https://juanaliyunus-profile.vercel.app)
 
-## 🔧 Ongoing Projects
-
-### **Cerita Untuk Mereka**
-An app that helps orphanages get better access to books and improve the donation process. [Check it out here](#).
-
-### **Credit-API**
-A robust API designed for financial services. Built with **Golang** and integrated with secure payment gateways.
-
-### **Don Juan Marketplace**
-An e-commerce API with 25 endpoints, optimized for scalability and security. Built with **Node.js** and **PostgreSQL**.
-
-## 📚 Recent Courses & Bootcamps
-
-- **DQ Lab Bootcamp Data Analyst** - SQL & Python for Data Analysis on Google Cloud.
-- **IDcamp Bootcamp** - Focused on Backend Development with Go.
 
 ## 🌍 Let's Connect!
 
@@ -79,18 +68,3 @@ An e-commerce API with 25 endpoints, optimized for scalability and security. Bui
 Feel free to explore my repositories and reach out if you'd like to collaborate!
 
 ---
-
-<!--
-**juanaliyunus/juanaliyunus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
