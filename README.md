@@ -1,7 +1,3 @@
-Berikut adalah README yang diperbarui sesuai dengan struktur skill yang kamu inginkan, dilengkapi dengan ikon untuk setiap teknologi:
-
----
-
 # 👋 Hi there, I'm **Juan Aliyunus**!
 
 I'm a passionate **Fullstack Developer** with a deep love for coding, electronics, and learning new technologies. I believe in the power of technology to drive change and am constantly exploring new ways to solve problems through software development.
