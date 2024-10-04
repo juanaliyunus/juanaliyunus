@@ -5,7 +5,7 @@ I'm a passionate **Fullstack Developer** with a deep love for coding, electronic
 ## 🚀 About Me
 
 - 🎓 Background in **Physics**
-- 🛠️ Skilled in **Backend Development** (Golang, Node.js), **Frontend Development** (Next.js, React), and **Software Quality Assurance**.
+- 🛠️ Skilled in **Backend Development**, **Frontend Development**, and **Software Quality Assurance**.
 - 🏋️ Fitness enthusiast who loves **running**, **swimming**, **calisthenics**, and more.
 - 💻 Currently working on various **personal projects** and looking to contribute to open-source communities.
 
