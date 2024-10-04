@@ -52,6 +52,8 @@ I'm a passionate **Fullstack Developer** with a deep love for coding, electronic
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanaliyunus&langs_count=8&theme=dark)
+
 ## 🌐 My Web Profile
 [Check out my web profile here!](https://juanaliyunus-profile.vercel.app)
 
